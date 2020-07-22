@@ -5,7 +5,7 @@ A simple Tweepy bot that updates a new tweet from a random passage. Searches for
 #### Create a new app and generate the consumer and access keys
 #### $ pip install virtualenv
 #### $ virtualenv myenv
-#### $ source myenc/bin/activate
+#### $ source myenv/bin/activate
 #### $ pip install tweepy
 #### $ git clone https://github.com/utkarshaverma/Twitter-Bot.git
 #### $ python3 main.py
